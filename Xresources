@@ -1,0 +1,4 @@
+XTerm*background: black
+XTerm*foreground: white
+XTerm*cursorColor: white
+XTerm*iconHint: /usr/share/WindowMaker/Icons/Terminal.xpm
